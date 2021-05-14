@@ -7,3 +7,7 @@
 #hello {
   color: rgb(134, 85, 85);
 }
+
+#input-label {
+  cursor: pointer;
+}
